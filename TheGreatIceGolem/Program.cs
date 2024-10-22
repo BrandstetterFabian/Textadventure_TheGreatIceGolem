@@ -50,7 +50,7 @@ namespace TheGreatIceGolem
             Console.CursorVisible = false;
             Blue();
             Console.WriteLine("         THE GREAT ICE GOLEM");
-            Thread.Sleep(4000);
+            Thread.Sleep(1000);
         }
 
         static void MainMenu()

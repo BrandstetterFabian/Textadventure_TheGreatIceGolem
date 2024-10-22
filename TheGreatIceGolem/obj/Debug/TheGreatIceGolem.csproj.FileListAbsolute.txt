@@ -12,3 +12,10 @@ C:\Users\Fabian\Documents\PRIVAT\VS SPIELE\C#\TheGreatIceGolem\TheGreatIceGolem\
 C:\Users\Fabian\Documents\PRIVAT\VS SPIELE\C#\TheGreatIceGolem\TheGreatIceGolem\obj\Debug\TheGreatIceGolem.csproj.CoreCompileInputs.cache
 C:\Users\Fabian\Documents\PRIVAT\VS SPIELE\C#\TheGreatIceGolem\TheGreatIceGolem\obj\Debug\TheGreatIceGolem.exe
 C:\Users\Fabian\Documents\PRIVAT\VS SPIELE\C#\TheGreatIceGolem\TheGreatIceGolem\obj\Debug\TheGreatIceGolem.pdb
+C:\Users\Fabian\Documents\PRIVAT\VS SPIELE\C#\KONSOLE\ADVENTURE GAMES\TheGreatIceGolem_Github\TheGreatIceGolem\bin\Debug\TheGreatIceGolem.exe.config
+C:\Users\Fabian\Documents\PRIVAT\VS SPIELE\C#\KONSOLE\ADVENTURE GAMES\TheGreatIceGolem_Github\TheGreatIceGolem\bin\Debug\TheGreatIceGolem.exe
+C:\Users\Fabian\Documents\PRIVAT\VS SPIELE\C#\KONSOLE\ADVENTURE GAMES\TheGreatIceGolem_Github\TheGreatIceGolem\bin\Debug\TheGreatIceGolem.pdb
+C:\Users\Fabian\Documents\PRIVAT\VS SPIELE\C#\KONSOLE\ADVENTURE GAMES\TheGreatIceGolem_Github\TheGreatIceGolem\obj\Debug\TheGreatIceGolem.csproj.AssemblyReference.cache
+C:\Users\Fabian\Documents\PRIVAT\VS SPIELE\C#\KONSOLE\ADVENTURE GAMES\TheGreatIceGolem_Github\TheGreatIceGolem\obj\Debug\TheGreatIceGolem.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Documents\PRIVAT\VS SPIELE\C#\KONSOLE\ADVENTURE GAMES\TheGreatIceGolem_Github\TheGreatIceGolem\obj\Debug\TheGreatIceGolem.exe
+C:\Users\Fabian\Documents\PRIVAT\VS SPIELE\C#\KONSOLE\ADVENTURE GAMES\TheGreatIceGolem_Github\TheGreatIceGolem\obj\Debug\TheGreatIceGolem.pdb
